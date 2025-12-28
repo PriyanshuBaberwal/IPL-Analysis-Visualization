@@ -17,5 +17,3 @@ This project focuses on exploratory data analysis (EDA) and visualization of Ind
 - Team-wise performance analysis
 - Data cleaning and preprocessing
 - Visual representation of insights
-
-## 📁 Project Structure
